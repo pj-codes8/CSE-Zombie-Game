@@ -1,6 +1,6 @@
 # CSE-Zombie-Game
 
-# Unity Assets 
+## Unity Assets 
 [Hungry Zombie](https://assetstore.unity.com/packages/3d/characters/hungry-zombie-99750)
 
 [Simple Low Poly Nature Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly-nature-pack-157552)
